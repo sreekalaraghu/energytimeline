@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/energytimeline/static/css/main.4dca92b4.css",
+    "main.js": "/energytimeline/static/js/main.d637a468.js",
+    "static/js/787.9192204f.chunk.js": "/energytimeline/static/js/787.9192204f.chunk.js",
+    "index.html": "/energytimeline/index.html",
+    "main.4dca92b4.css.map": "/energytimeline/static/css/main.4dca92b4.css.map",
+    "main.d637a468.js.map": "/energytimeline/static/js/main.d637a468.js.map",
+    "787.9192204f.chunk.js.map": "/energytimeline/static/js/787.9192204f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dca92b4.css",
+    "static/js/main.d637a468.js"
+  ]
+}
