@@ -33,6 +33,7 @@ export function getYear() {
   }
 export function filteryear(year){
     let filteredevent = getYear().filter(data => data.year == year);
+    console.log(filteredevent)
   
     return filteredevent;
 } 
