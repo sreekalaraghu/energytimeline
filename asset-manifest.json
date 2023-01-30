@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/energytimeline/static/css/main.4dca92b4.css",
-    "main.js": "/energytimeline/static/js/main.d637a468.js",
+    "main.css": "/energytimeline/static/css/main.dcb9eb68.css",
+    "main.js": "/energytimeline/static/js/main.d60ed11d.js",
     "static/js/787.9192204f.chunk.js": "/energytimeline/static/js/787.9192204f.chunk.js",
     "index.html": "/energytimeline/index.html",
-    "main.4dca92b4.css.map": "/energytimeline/static/css/main.4dca92b4.css.map",
-    "main.d637a468.js.map": "/energytimeline/static/js/main.d637a468.js.map",
+    "main.dcb9eb68.css.map": "/energytimeline/static/css/main.dcb9eb68.css.map",
+    "main.d60ed11d.js.map": "/energytimeline/static/js/main.d60ed11d.js.map",
     "787.9192204f.chunk.js.map": "/energytimeline/static/js/787.9192204f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dca92b4.css",
-    "static/js/main.d637a468.js"
+    "static/css/main.dcb9eb68.css",
+    "static/js/main.d60ed11d.js"
   ]
 }
